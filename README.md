@@ -1,18 +1,10 @@
-### Hi there 👋
+### Olá, 👋
 
-- Estou cursando o DEVinHouse no SENAI-SC
-- Desenvolvedor full stack
-
-
-- 🔭 Atualmente estou na procura de oportunidades na área de programação
-- 🌱 No momento estou estudando sobre Python, SQL e Api's
-- 📫 Me encontre no linkedin: https://www.linkedin.com/in/vinicius-possatto-stormoski-3696a922b/
-
-<h1 align="center">Olá, sou o Vinicius Possatto Stormoski</h1>
+<h2 align="center">sou o Vinicius Possatto Stormoski</h2>
 <h3 align="center">Desenvolvedor Full Stack.</h3>
 
 - Cursando no SENAI_SC - DEVinHouse - [Turma Conecta Nuvem](https://devinhouse.tech)
-
+- 🔭 Atualmente estou na procura de oportunidades de trabalho na área de programação
 - 📫 Email para contato - **vinicius-possatto@hotmail.com**
 
 <h3 align="left">Me encontre:</h3>
