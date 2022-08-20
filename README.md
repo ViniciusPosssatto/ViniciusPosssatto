@@ -1,6 +1,4 @@
-### Olá, 👋
-
-<h2 align="center">sou o Vinicius Possatto Stormoski</h2>
+### Olá, 👋 sou o Vinicius Possatto Stormoski.
 <h3 align="center">Desenvolvedor Full Stack.</h3>
 
 - Cursando no SENAI_SC - DEVinHouse - [Turma Conecta Nuvem](https://devinhouse.tech)
