@@ -4,7 +4,7 @@
 - Cursando no SENAI_SC - DEVinHouse - [Turma Conecta Nuvem](https://devinhouse.tech)
 - 📫 Contato
 <div>
- <a href = "mailto:vinehsp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:vinehps@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-possatto-stormoski-3696a922b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 <div align="center">
