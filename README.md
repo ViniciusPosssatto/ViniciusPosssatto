@@ -1,7 +1,7 @@
 ### Olá, 👋 sou o Vinicius Possatto Stormoski.
-<h3>Desenvolvedor Full Stack.</h3>
+<h3>Desenvolvedor Full Stack (Python + Vuejs).</h3>
 
-- Cursando no SENAI_SC - DEVinHouse - [Turma Conecta Nuvem](https://devinhouse.tech)
+<p align="center"> Trabalhar construindo sistemas é como montar um quebra-cabeça, existe uma lógica e um propósito. Ao final, entender os processos, perceber as etapas que foram realizadas e ver o resultado desenvolvido pelos times é o que me motiva nessa nova carreira. </p>
 - 📫 Contato
 <div>
  <a href = "mailto:vinehps@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
