@@ -1,11 +1,21 @@
-### Olá, 👋 sou o Vinicius Possatto Stormoski.
-<h3>Desenvolvedor Full Stack (Python + Vuejs + Google Cloud Platform).</h3>
+### Olá, 👋 sou o Vinicius.
+<h3>Atualmente como Desenvolvedor Full Stack na Conecta Suite.</h3>
+ 
+ <h5> Trabalho utilizando as stacks Python + Flask no backend e Vuejs (versão 2 e 3) no frontend, utilizando as ferrramentas do Google Cloud Platform.</h5> 
+ 
+ <h3>Um pouco das minhas experiências:</h3>
+ 
+ - Construção de API's Rest, testes unitários com pytest, integrações entre API's e microserviços no backend.
+ - Construção de SPA's e testes de integração no frontend utilizando o Cypress.
+ - Experiência com Cloud Functions, Cloud Run, Firebase, Datastore, Bigquery, Logs, integração com API's do Google e integração com API's do Microsoft Graph.
+ - Experiência com Jira, Hubspot, Bitbucket, pipelines, revisão de código, trabalho em equipe, desenvolvimento ágil + SCRUM e desenvolvimento pessoal focado na entrega de valor.
+ - Gosto muito do full stack, construindo um sistema de ponta a ponta. Meu ponto forte é backend, pois sou muito bom com lógicas complexas, desenvolvimento voltado para a escalabilidade do projeto e gosto muito de aplicar integrações com outros sistemas.
 
-<p> Trabalhar construindo sistemas é como montar um quebra-cabeça, existe uma lógica e um propósito. Ao final, entender os processos, perceber as etapas que foram realizadas e ver o resultado desenvolvido pelos times é o que me motiva nessa carreira. </p>
+`` Trabalhar construindo sistemas é como montar um quebra-cabeça, existe uma lógica e um propósito. Ao final, entender os processos, perceber as etapas que foram realizadas e ver o resultado desenvolvido é o que me motiva nessa carreira. `` 
 - 📫 Contato
 <div>
  <a href = "mailto:vinicius-possatto@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-possatto-stormoski-3696a922b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vinicius-ps" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 <div align="center">
 <br>
